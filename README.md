@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil ❤️
 
-<!--
-**luizotaviodasilva2/luizotaviodasilva2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é luiz otávio
 
-Here are some ideas to get you started:
+- estou etudado no alura
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvlvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## você quer entrar em contato comigo 📧
+
+  00001095132386sp@al.educacao.sp.gov.br
+
+![gif de gato](https://tenor.com/pt-BR/view/peach-goma-peach-heart-happy-dance-love-dance-gif-8327676958803709064)
