@@ -2,9 +2,9 @@
 
 meu nome é luiz otávio
 
-- estou etudado no alura
-- estou me desenvolvendo na linguagem javascript
-- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvlvidos
+- Estou etudado no alura
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ## você quer entrar em contato comigo 📧
 
